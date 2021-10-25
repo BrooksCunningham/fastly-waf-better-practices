@@ -1,0 +1,5 @@
+
+.terraform.lock.hcl
+.terraform/providers/registry.terraform.io/signalsciences/sigsci/0.4.3/darwin_amd64/LICENSE
+.terraform/providers/registry.terraform.io/signalsciences/sigsci/0.4.3/darwin_amd64/README.md
+.terraform/providers/registry.terraform.io/signalsciences/sigsci/0.4.3/darwin_amd64/terraform-provider-sigsci_v0.4.3
