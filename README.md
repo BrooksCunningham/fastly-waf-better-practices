@@ -10,15 +10,14 @@ The Fastly Next Gen WAF (Signal Sciences) is amazing right out of the box. We ca
 # How to use this repo
 * Run the script get-robots-txt.sh to populate the list of paths that bots should not crawl in the file "main.auto.tfvars".
 * (optional) create a site.auto.tfvars with your site variable so you do not have to be prompted each time you run `terraform plan` or `terraform apply`
-* Set up the following variables however you like. (I prefer environment variables)
-  SIGSCI_CORP
-  SIGSCI_EMAIL
-  SIGSCI_TOKEN
+* Set up the following variables however you like. (I prefer environment variables)  
+    * SIGSCI_CORP
+    * SIGSCI_EMAIL
+    * SIGSCI_TOKEN
 * Run the command `terraform apply`
 
 
 # TODOs
-Make more lists
 
 * Block attack traffic from known suspicious sources [DONE]
 * Consolidate all attack traffic into a single custom signal [DONE]
