@@ -134,7 +134,7 @@ resource "sigsci_corp_rule" "attack-sus-src-rule" {
 # Signal for suspected login attempts
 resource "sigsci_corp_signal_tag" "sus-login" {
   short_name      = "sus-login"
-  description     = "Make sure these requests are visibible in your ATO dashboard or customize the rule to avoid adding this Signal to rules"
+  description     = "Make sure these requests are visible in your ATO dashboard or customize the rule to avoid adding this Signal to rules"
 }
 
 # Add a signal when there is a suspected login
