@@ -1,1 +1,0 @@
-SIGSCI_SITE = "test"
