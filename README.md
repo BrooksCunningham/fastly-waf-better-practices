@@ -19,10 +19,16 @@ The Fastly Next Gen WAF (Signal Sciences) is amazing right out of the box. We ca
 
 # TODOs
 
-* Block attack traffic from known suspicious sources [DONE]
-* Consolidate all attack traffic into a single custom signal [DONE]
-* Discover Login paths [DONE]
-* Discover places where card details are used [DONE]
-* Block bots based on robots.txt [DONE]
-* Lower the default site alerts [DONE]
+| Request  | Status | Notes |
+| :------------- | :----------: | -----------: |
+|  Block attack traffic from known suspicious sources | DONE |     |
+| Consolidate all attack traffic into a single custom signal | DONE | |
+| Discover Login paths | DONE | |
+| Discover places where card details are used | DONE | |
+| Block bots based on robots.txt | DONE | |
+| Lower the default site alerts | DONE | |
+| Rate limit after excessive 404s | NOT STARTED | |
+
+
+
 
