@@ -1,4 +1,4 @@
-# unofficial better practices for the Fastly Next Gen WAF
+# Unofficial better practices for the Fastly Next Gen WAF
 The Fastly Next Gen WAF (Signal Sciences) is amazing right out of the box. We can use the framework that it provides to provide more suggestions about how to get the most out of the product. This repository provides the following functionaliy.
 
 * Block traffic from known suspicious sources
