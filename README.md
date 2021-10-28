@@ -27,7 +27,7 @@ The Fastly Next Gen WAF (Signal Sciences) is amazing right out of the box. We ca
 | Discover places where card details are used | DONE | |
 | Block bots based on robots.txt | DONE | |
 | Lower the default site alerts | DONE | |
-| Rate limit after excessive 404s | NOT STARTED | |
+| Rate limit by ASN after excessive 404s | NOT STARTED | Need to define either A) list of high volume ASNs that should not be subject rate limiting or B) a list of suspicious ASNs |
 
 
 
